@@ -15,6 +15,8 @@ Your task is to write a Python program that reads the data from the CSV file and
 4. Identify the top 10 customers by revenue generated.
 
 # Use the official R image.
+![R_logo svg](https://github.com/user-attachments/assets/75a1dfc3-c16c-4aef-afc4-fb0683b04db1)
+
 FROM rocker/r-ver:4.1.0
 
 # Install required packages
